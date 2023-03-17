@@ -30,5 +30,19 @@ MEMBER_OF = "IIC TMSL Tech Wing"
 </div>
 
 
+### Connect with me:
+<div align=center>
+
+  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-6650751a5/" alt="Srijan Bhattacharyya | LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" >
+    </a> &nbsp;
+
+  <a href="srijan.76448@gmail.com" alt="Srijan Bhattacharyya | Gmail">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png">
+    </a> &nbsp;
+  
+</div>
+
+
 Thank You 🙂
 ------------
