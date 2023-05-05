@@ -25,6 +25,8 @@
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
+    height: 200px
+    width: 1000px
   />
   <img
     src = "imgs/wings/Right.svg" 
