@@ -18,21 +18,19 @@
   <img
     src = "imgs/wings/Left.svg" 
     alt = "Left Wing"
-    height: 160px
-    width: 160px
+    height = "160px"
+    width = "160px"
   />
   <img
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
-    height: 100px
-    width: 500px
   />
   <img
     src = "imgs/wings/Right.svg" 
     alt = "Right Wing"
-    height: 160px
-    width: 160px 
+    height = "160px"
+    width = "160px" 
   />
 
   <p></p>
