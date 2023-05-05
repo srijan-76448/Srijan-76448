@@ -1,13 +1,3 @@
-<style>
-  @media only screen and (max-width: 600px) {
-    img {
-      width: 500%;
-      height: 100% 
-    }
-  }
-</style>
-
-
 <p align = "center">
   <img 
     src = "imgs/github-header/v1.png"
@@ -35,8 +25,6 @@
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
-    height: 200px
-    width: 500px
   />
   <img
     src = "imgs/wings/Right.svg" 
