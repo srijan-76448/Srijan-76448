@@ -1,13 +1,3 @@
-<style>
-  @media only screen and (max-width: 600px) {
-    img {
-      width: 500%;
-      height: 100% 
-    }
-  }
-</style>
-
-
 <p align = "center">
   <img 
     src = "imgs/github-header/v1.webp"
@@ -86,152 +76,152 @@
 <h1></h1>
 <h1>Tech Stack:</h1>
 
-<h1>Platform:
+<h1>Platform:&nbsp;&nbsp;
   <img 
     src="imgs/platform/windows.webp" 
     height = "34" 
     alt="Windows" align=right
   />
-  
+  &nbsp;&nbsp;
   <img 
     src="imgs/platform/linux.webp" 
     height = "34" 
     alt="Linux" align=right
   />
-  
+  &nbsp;&nbsp;
 </h1>
 
-<h1>Languages:
+<h1>Languages:&nbsp;&nbsp;
   <img 
     src="imgs/lang/c.webp"
     height = "34"
     alt="c" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/lang/cpp.webp"
     height = "34"
     alt="cpp" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/lang/py.webp"
     height = "34"
     alt="py" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/lang/bash.webp"
     height = "34"
     alt="bash" 
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
-<h1>IoT:
+<h1>IoT:&nbsp;&nbsp;
   <img 
     src="imgs/iot/rpi.webp" 
     height="34" 
     alt="rasPi" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/iot/arduino.webp" 
     height="34" 
     alt="Arduino" 
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
-<h1>Opereting Systems:
+<h1>Opereting Systems:&nbsp;&nbsp;
 
   <img 
     src="imgs/os/arch-linux.webp" 
     height="34" 
     alt="Arch_Linux"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/ubuntu.webp" 
     height="34" 
     alt="Ubuntu"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/parrot-sec.-os.webp" 
     height="34" 
     alt="Parrot_Sec_OS"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/linux-mint.webp" 
     height="34" 
     alt="Linux_Mint"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/kde-neon.webp" 
     height="34" 
     alt="KDE_Neon"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/manjaro.webp" 
     height="34" 
     alt="Manjaro"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/diet-pi.webp" 
     height="34" 
     alt="DietPi"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/raspi-os.webp" 
     height="34" 
     alt="Raspberry_Pi_OS"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/void-linux.webp" 
     height="34" 
     alt="Void_Linux"
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/os/windows.webp" 
     height="34" 
     alt="Windows"
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
-<h1>DE or WM:
+<h1>DE or WM:&nbsp;&nbsp;
   <img 
     src="imgs/gui/kde.webp"
     height="34" 
     alt="KDE" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/gui/gnome.webp"
     height="34" 
     alt="Gnome" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/gui/cinnamon.webp"
     height="34" 
     alt="Cinnamon" 
     align=right
-  />
+  />&nbsp;&nbsp;
   <img 
     src="imgs/gui/i3wm.webp"
     height="34" 
     alt="i3wm" 
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
 
@@ -240,22 +230,22 @@
 
 <h1>Currently in use:</h1>
 
-<h1>OS:
+<h1>OS:&nbsp;&nbsp;
   <img 
     src="imgs/os/current.webp" 
     height="34" 
     alt="Current OS logo"
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
-<h1>DE/WM:
+<h1>DE/WM:&nbsp;&nbsp;
   <img 
     src="imgs/gui/current.webp" 
     height="34" 
     alt="Current DE/WM logo"
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
 
 
@@ -264,11 +254,11 @@
 
 <h1>Member Of:</h1>
 
-<h1>Group:
+<h1>Group:&nbsp;&nbsp;
   <img 
     src="imgs/grp/iic.webp" 
     height="34" 
     alt="IIC logo" 
     align=right
-  />
+  />&nbsp;&nbsp;
 </h1>
