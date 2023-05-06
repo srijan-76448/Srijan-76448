@@ -1,6 +1,16 @@
+<style>
+  @media only screen and (max-width: 600px) {
+    img {
+      width: 500%;
+      height: 100% 
+    }
+  }
+</style>
+
+
 <p align = "center">
   <img 
-    src = "imgs/github-header/v1.png"
+    src = "imgs/github-header/v1.webp"
     alt = "Hey! I am Srijan Bhattacharyya."
     width: 500% 
     height: 100% 
@@ -16,21 +26,23 @@
 <h2 align = "center">GitHub Stats</h2>
 <div align = "center">
   <img
-    src = "imgs/wings/Left.svg" 
+    src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
-    height = "160px"
-    width = "160px"
+    height = "200px"
+    width = "200px"
   />
   <img
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
+    height = "200px"
+    width = "500px"
   />
   <img
-    src = "imgs/wings/Right.svg" 
+    src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
-    height = "160px"
-    width = "160px" 
+    height = "200px"
+    width = "200px" 
   />
 
   <p></p>
@@ -39,7 +51,8 @@
     src = "https://github-readme-stats.vercel.app/api?username=SrijanBhattacharyya&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" 
     alt = "GitHub Stats"
     height = "200px"
-    width = "500px">
+    width = "500px"
+  />
 
   <p></p>
 
@@ -48,7 +61,8 @@
     src = "https://github-readme-stats.vercel.app/api/top-langs?username=SrijanBhattacharyya&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" 
     alt = "Language Stats"
     height = "170px"
-    width = "500px">
+    width = "500px"
+  />
 </div>
 
 
@@ -58,12 +72,12 @@
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
-    <img height="34" src="imgs/social-media/linkedin.png" alt="LinkedIn">
+    <img height="34" src="imgs/social-media/linkedin.webp" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/_.the._.god._.of._.madness._/">
     <img height="34" src="imgs/social-media/instagram.webp" alt="Instagram">
   </a>
-  <a href="mailto:srijan.76448@gmail.com">
+  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
 </p>
@@ -74,13 +88,13 @@
 
 <h1>Platform:&nbsp;&nbsp;
   <img 
-    src="imgs/platform/win.svg" 
+    src="imgs/platform/windows.webp" 
     height = "34" 
     alt="Windows" align=right
   />
   &nbsp;&nbsp;
   <img 
-    src="imgs/platform/linux.svg" 
+    src="imgs/platform/linux.webp" 
     height = "34" 
     alt="Linux" align=right
   />
@@ -89,25 +103,25 @@
 
 <h1>Languages:&nbsp;&nbsp;
   <img 
-    src="imgs/lang/c.png"
+    src="imgs/lang/c.webp"
     height = "34"
     alt="c" 
     align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/lang/cpp.png"
+    src="imgs/lang/cpp.webp"
     height = "34"
     alt="cpp" 
     align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/lang/py.png"
+    src="imgs/lang/py.webp"
     height = "34"
     alt="py" 
     align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/lang/bash.png"
+    src="imgs/lang/bash.webp"
     height = "34"
     alt="bash" 
     align=right
@@ -116,13 +130,13 @@
 
 <h1>IoT:&nbsp;&nbsp;
   <img 
-    src="imgs/iot/rpi.svg" 
+    src="imgs/iot/rpi.webp" 
     height="34" 
     alt="rasPi" 
     align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/iot/arduino.svg" 
+    src="imgs/iot/arduino.webp" 
     height="34" 
     alt="Arduino" 
     align=right
