@@ -25,7 +25,7 @@
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
-    height = "200px"
+    height = "205px"
     width = "500px"
   />
   <img
