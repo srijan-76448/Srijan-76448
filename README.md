@@ -9,7 +9,7 @@
 
 
 ![status](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya.SrijanBhattacharyya)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya.id)
 
 
 <h2 align = "center">GitHub Stats</h2>
