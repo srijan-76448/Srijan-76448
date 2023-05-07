@@ -18,21 +18,21 @@
   <img
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
-    height = "150px"
-    width = "150px"
+    height = "160px"
+    width = "160px"
   />
   <img
     align = "top" 
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
     height = "200px"
-    width = "500px"
+    width = "510px"
   />
   <img
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
-    height = "150px"
-    width = "150px"
+    height = "160px"
+    width = "160px"
   />
 
   <p></p>
