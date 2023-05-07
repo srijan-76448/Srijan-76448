@@ -12,7 +12,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya.SrijanBhattacharyya)
 
 
-
 <h2 align = "center">GitHub Stats</h2>
 <div align = "center">
   <img
