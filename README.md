@@ -18,8 +18,8 @@
   <img
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
-    height = "200px"
-    width = "200px"
+    height = "160px"
+    width = "160px"
   />
   <img
     align = "top" 
@@ -31,8 +31,8 @@
   <img
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
-    height = "200px"
-    width = "200px" 
+    height = "160px"
+    width = "160px"
   />
 
   <p></p>
