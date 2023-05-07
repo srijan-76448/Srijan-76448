@@ -26,7 +26,7 @@
     src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
     height = "200px"
-    width = "510px"
+    width = "500px"
   />
   <img
     src = "imgs/wings/Right.webp" 
