@@ -53,10 +53,11 @@
     width = "500px"
   />
 </div>
+<h1></h1>
 
 
-<h3 align="center">Social Media</h3>
-<p align="center">
+<h2>Social Media:</h2>
+<p align="right">
   <a href="https://twitter.com/RohitBh51575865">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
@@ -73,9 +74,9 @@
 
 
 <h1></h1>
-<h1>Tech Stack:</h1>
+<h1>Tech Stack</h1>
 
-<h1>Platform:&nbsp;&nbsp;
+<h2>Platform:&nbsp;&nbsp;
   <img 
     src="imgs/platform/windows.webp" 
     height = "34" 
@@ -88,9 +89,10 @@
     alt="Linux" align=right
   />
   &nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
-<h1>Languages:&nbsp;&nbsp;
+<h2>Languages:&nbsp;&nbsp;
   <img 
     src="imgs/lang/c.webp"
     height = "34"
@@ -115,9 +117,10 @@
     alt="bash" 
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
-<h1>IoT:&nbsp;&nbsp;
+<h2>IoT:&nbsp;&nbsp;
   <img 
     src="imgs/iot/rpi.webp" 
     height="34" 
@@ -130,9 +133,10 @@
     alt="Arduino" 
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
-<h1>Opereting Systems:&nbsp;&nbsp;
+<h2>Opereting Systems:&nbsp;&nbsp;
 
   <img 
     src="imgs/os/arch-linux.webp" 
@@ -194,9 +198,10 @@
     alt="Windows"
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
-<h1>DE or WM:&nbsp;&nbsp;
+<h2>DE/WM:&nbsp;&nbsp;
   <img 
     src="imgs/gui/kde.webp"
     height="34" 
@@ -221,43 +226,47 @@
     alt="i3wm" 
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
 
 <br>
 
 
-<h1>Currently in use:</h1>
+<h1>Currently In Use</h1>
 
-<h1>OS:&nbsp;&nbsp;
+<h2>OS:&nbsp;&nbsp;
   <img 
     src="imgs/os/current.webp" 
     height="34" 
     alt="Current OS logo"
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
-<h1>DE/WM:&nbsp;&nbsp;
+<h2>DE/WM:&nbsp;&nbsp;
   <img 
     src="imgs/gui/current.webp" 
     height="34" 
     alt="Current DE/WM logo"
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
 
 
 <br>
 
 
-<h1>Member Of:</h1>
+<h1>Member Of</h1>
 
-<h1>Group:&nbsp;&nbsp;
+<h2>Group:&nbsp;&nbsp;
   <img 
     src="imgs/grp/iic.webp" 
     height="34" 
     alt="IIC logo" 
     align=right
   />&nbsp;&nbsp;
-</h1>
+</h2>
+<h1></h1>
