@@ -56,7 +56,7 @@
 <h1></h1>
 
 
-<h2>Social Media:</h2>
+<h2>Social Media:
 <p align="right">
   <a href="https://twitter.com/RohitBh51575865">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
@@ -71,9 +71,12 @@
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
 </p>
+</h2>
 
 
-<h1></h1>
+<br>
+
+
 <h1>Tech Stack</h1>
 
 <h2>Platform:&nbsp;&nbsp;
@@ -90,7 +93,7 @@
   />
   &nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 <h2>Languages:&nbsp;&nbsp;
   <img 
@@ -118,7 +121,7 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 <h2>IoT:&nbsp;&nbsp;
   <img 
@@ -134,7 +137,7 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 <h2>Opereting Systems:&nbsp;&nbsp;
 
@@ -199,7 +202,6 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
 
 <h2>DE/WM:&nbsp;&nbsp;
   <img 
@@ -227,7 +229,7 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 
 <br>
@@ -243,7 +245,7 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 <h2>DE/WM:&nbsp;&nbsp;
   <img 
@@ -253,7 +255,7 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
+
 
 
 <br>
@@ -269,4 +271,3 @@
     align=right
   />&nbsp;&nbsp;
 </h2>
-<h1></h1>
