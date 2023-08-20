@@ -9,7 +9,7 @@
 
 
 ![status](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya.SrijanBhattacharyya)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Srijan-76448.Srijan-76448)
 
 
 <h2 align = "center">GitHub Stats</h2>
@@ -22,7 +22,7 @@
   />
   <img
     align = "top" 
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=SrijanBhattacharyya&theme=windows-dark&hide_border=true" 
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=Srijan-76448&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
     height = "200px"
     width = "500px"
@@ -37,7 +37,7 @@
   <p></p>
 
   <img
-    src = "https://github-readme-stats.vercel.app/api?username=SrijanBhattacharyya&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" 
+    src = "https://github-readme-stats.vercel.app/api?username=Srijan-76448&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" 
     alt = "GitHub Stats"
     height = "200px"
     width = "500px"
@@ -47,7 +47,7 @@
 
   <img
     align = top 
-    src = "https://github-readme-stats.vercel.app/api/top-langs?username=SrijanBhattacharyya&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" 
+    src = "https://github-readme-stats.vercel.app/api/top-langs?username=Srijan-76448&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" 
     alt = "Language Stats"
     height = "170px"
     width = "500px"
