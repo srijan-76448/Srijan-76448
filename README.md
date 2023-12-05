@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
     <img height="34" src="imgs/social-media/linkedin.webp" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/_.the._.god._.of._.madness._/">
+  <a href="https://www.instagram.com/srijan.76448/">
     <img height="34" src="imgs/social-media/instagram.webp" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
