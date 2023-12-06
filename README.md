@@ -4,6 +4,7 @@
     alt = "Hey! I am Srijan Bhattacharyya."
     width: 500% 
     height: 100% 
+    align = "center"
   />
 </p>
 
