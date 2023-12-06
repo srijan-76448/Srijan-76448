@@ -1,6 +1,6 @@
 <p align = "center">
   <img 
-    src = "imgs/github-header/v1.webp"
+    src = "imgs/github-header/v2.webp"
     alt = "Hey! I am Srijan Bhattacharyya."
     width: 500% 
     height: 100% 
