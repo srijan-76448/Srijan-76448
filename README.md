@@ -201,6 +201,18 @@
     alt="Windows"
     align=right
   />&nbsp;&nbsp;
+  <img 
+    src="imgs/os/garuda-linux.webp" 
+    height="34" 
+    alt="Garuda Linux"
+    align=right
+  />&nbsp;&nbsp;
+  <img 
+    src="imgs/os/bllack-arch-linux.webp" 
+    height="34" 
+    alt="Black Arch Linux"
+    align=right
+  />&nbsp;&nbsp;
 </h2>
 
 <h2>DE/WM:&nbsp;&nbsp;
