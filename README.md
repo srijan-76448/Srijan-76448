@@ -251,9 +251,21 @@
 
 <h2>OS:&nbsp;&nbsp;
   <img 
-    src="imgs/os/current.webp" 
+    src="imgs/os/arch-linux.webp" 
     height="34" 
-    alt="Current OS logo"
+    alt="Current OS 1"
+    align=right
+  />&nbsp;&nbsp;
+  <img 
+    src="imgs/os/garuda-linux.webp" 
+    height="34" 
+    alt="Current OS 2"
+    align=right
+  />&nbsp;&nbsp;
+  <img 
+    src="imgs/os/black-arch-linux.webp" 
+    height="34" 
+    alt="Current OS 3"
     align=right
   />&nbsp;&nbsp;
 </h2>
