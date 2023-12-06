@@ -208,7 +208,7 @@
     align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/os/bllack-arch-linux.webp" 
+    src="imgs/os/black-arch-linux.webp" 
     height="34" 
     alt="Black Arch Linux"
     align=right
