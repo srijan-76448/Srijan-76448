@@ -59,16 +59,16 @@
 
 <h2>Social Media:
 <p align="right">
-  <a href="https://twitter.com/RohitBh51575865">
+  <a href="https://twitter.com/RohitBh51575865" alt="Srijan Bhattacharyya | Twitter">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
+  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/" alt="Srijan Bhattacharyya | LinkedIn">
     <img height="34" src="imgs/social-media/linkedin.webp" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/srijan.76448/">
+  <a href="https://www.instagram.com/srijan.76448/" alt="Srijan Bhattacharyya | Instagram">
     <img height="34" src="imgs/social-media/instagram.webp" alt="Instagram">
   </a>
-  <a href="https://mailto:bhojan.apanjan@gmail.com">
+  <a href="mailto:srijan.76448@gmail.com" alt="Srijan Bhattacharyya | Gmail">
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
 </p>
