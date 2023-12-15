@@ -68,7 +68,7 @@
   <a href="https://www.instagram.com/srijan.76448/">
     <img height="34" src="imgs/social-media/instagram.webp" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/">
+  <a href="https://mailto:bhojan.apanjan@gmail.com">
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
 </p>
