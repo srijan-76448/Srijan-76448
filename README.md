@@ -71,6 +71,9 @@
   <a href="mailto:srijan.76448@gmail.com" alt="Srijan Bhattacharyya | Gmail">
     <img height="34" src="imgs/social-media/gmail.webp" alt="Gmail">
   </a>
+  <a href="https://wa.me//+919903342634" alt="Srijan Bhattacharyya | WhatsApp">
+    <img height="34" src="imgs/social-media/whatsapp.webp" alt="WhatsApp">
+  </a>
 </p>
 </h2>
 
