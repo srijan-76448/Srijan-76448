@@ -59,7 +59,7 @@
 
 <h2>Social Media:
 <p align="right">
-  <a href="https://twitter.com/RohitBh51575865" alt="Srijan Bhattacharyya | Twitter">
+  <a href="https://twitter.com/srijan76448" alt="Srijan Bhattacharyya | Twitter">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/" alt="Srijan Bhattacharyya | LinkedIn">
