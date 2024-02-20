@@ -88,14 +88,17 @@
     src="imgs/platform/windows.webp" 
     height = "34" 
     alt="Windows" align=right
-  />
-  &nbsp;&nbsp;
+  />&nbsp;&nbsp;
   <img 
     src="imgs/platform/linux.webp" 
     height = "34" 
     alt="Linux" align=right
-  />
-  &nbsp;&nbsp;
+  />&nbsp;&nbsp;
+  <img 
+    src="imgs/platform/GNU.webp" 
+    height = "34" 
+    alt="Linux" align=right
+  />&nbsp;&nbsp;
 </h2>
 
 
