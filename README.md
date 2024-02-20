@@ -107,6 +107,12 @@
     align=right
   />&nbsp;&nbsp;
   <img 
+    src="imgs/lang/lua.webp"
+    height = "34"
+    alt="c" 
+    align=right
+  />&nbsp;&nbsp;
+  <img 
     src="imgs/lang/cpp.webp"
     height = "34"
     alt="cpp" 
