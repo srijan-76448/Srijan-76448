@@ -88,17 +88,17 @@
     src="imgs/platform/windows.webp" 
     height = "34" 
     alt="Windows" align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/platform/linux.webp" 
     height = "34" 
     alt="Linux" align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/platform/gnu.webp" 
     height = "34" 
     alt="GNU" align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -108,31 +108,31 @@
     height = "34"
     alt="c" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/lang/lua.webp"
     height = "34"
     alt="lua" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/lang/cpp.webp"
     height = "34"
     alt="cpp" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/lang/py.webp"
     height = "34"
     alt="py" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/lang/bash.webp"
     height = "34"
     alt="bash" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -142,13 +142,13 @@
     height="34" 
     alt="rasPi" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/iot/arduino.webp" 
     height="34" 
     alt="Arduino" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -159,73 +159,73 @@
     height="34" 
     alt="Arch_Linux"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/ubuntu.webp" 
     height="34" 
     alt="Ubuntu"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/parrot-sec.-os.webp" 
     height="34" 
     alt="Parrot_Sec_OS"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/linux-mint.webp" 
     height="34" 
     alt="Linux_Mint"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/kde-neon.webp" 
     height="34" 
     alt="KDE_Neon"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/manjaro.webp" 
     height="34" 
     alt="Manjaro"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/diet-pi.webp" 
     height="34" 
     alt="DietPi"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/raspi-os.webp" 
     height="34" 
     alt="Raspberry_Pi_OS"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/void-linux.webp" 
     height="34" 
     alt="Void_Linux"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/windows.webp" 
     height="34" 
     alt="Windows"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/garuda-linux.webp" 
     height="34" 
     alt="Garuda Linux"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/black-arch-linux.webp" 
     height="34" 
     alt="Black Arch Linux"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 <h2>DE/WM:&nbsp;&nbsp;
@@ -234,25 +234,25 @@
     height="34" 
     alt="KDE" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/gui/gnome.webp"
     height="34" 
     alt="Gnome" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/gui/cinnamon.webp"
     height="34" 
     alt="Cinnamon" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/gui/i3wm.webp"
     height="34" 
     alt="i3wm" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -268,19 +268,19 @@
     height="34" 
     alt="Current OS 1"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/garuda-linux.webp" 
     height="34" 
     alt="Current OS 2"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
   <img 
     src="imgs/os/black-arch-linux.webp" 
     height="34" 
     alt="Current OS 3"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -290,7 +290,7 @@
     height="34" 
     alt="Current DE/WM logo"
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
 
 
@@ -306,5 +306,5 @@
     height="34" 
     alt="IIC logo" 
     align=right
-  />&nbsp;&nbsp;
+  />&nbsp;
 </h2>
