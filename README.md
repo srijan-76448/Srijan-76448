@@ -97,7 +97,7 @@
   <img 
     src="imgs/platform/GNU.webp" 
     height = "34" 
-    alt="Linux" align=right
+    alt="GNU" align=right
   />&nbsp;&nbsp;
 </h2>
 
@@ -112,7 +112,7 @@
   <img 
     src="imgs/lang/lua.webp"
     height = "34"
-    alt="c" 
+    alt="lua" 
     align=right
   />&nbsp;&nbsp;
   <img 
