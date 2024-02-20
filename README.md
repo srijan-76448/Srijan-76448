@@ -95,7 +95,7 @@
     alt="Linux" align=right
   />&nbsp;&nbsp;
   <img 
-    src="imgs/platform/GNU.webp" 
+    src="imgs/platform/gnu.webp" 
     height = "34" 
     alt="GNU" align=right
   />&nbsp;&nbsp;
