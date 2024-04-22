@@ -301,11 +301,13 @@
 <h1>Member Of</h1>
 
 <h2>Group:&nbsp;&nbsp;
-  <a href="https://wa.me//+917059343651" align=right>
-    <img 
-      src="imgs/grp/iic.webp" 
-      height="34" 
-      alt="IIC logo" 
-    />
-  </a>
+  <p align="right">
+    <a href="http://iictmsl.com/" align=right>
+      <img 
+        src="imgs/grp/iic.webp" 
+        height="34" 
+        alt="IIC logo" 
+      />
+    </a>
+  </p>
 </h2>
