@@ -278,19 +278,13 @@
   <img 
     src="imgs/os/arch-linux.webp" 
     height="34" 
-    alt="Current OS 1"
+    alt="Arch Linux"
     align=right
   />&nbsp;
   <img 
-    src="imgs/os/garuda-linux.webp" 
+    src="imgs/os/windows.webp" 
     height="34" 
-    alt="Current OS 2"
-    align=right
-  />&nbsp;
-  <img 
-    src="imgs/os/black-arch-linux.webp" 
-    height="34" 
-    alt="Current OS 3"
+    alt="Windows 11"
     align=right
   />&nbsp;
 </h2>
@@ -298,9 +292,9 @@
 
 <h2>DE/WM:&nbsp;&nbsp;
   <img 
-    src="imgs/gui/current.webp" 
+    src="imgs/gui/i3wm.webp" 
     height="34" 
-    alt="Current DE/WM logo"
+    alt="i3wm"
     align=right
   />&nbsp;
 </h2>
