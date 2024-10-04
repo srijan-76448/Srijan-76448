@@ -149,6 +149,18 @@
     alt="Arduino" 
     align=right
   />&nbsp;
+  <img 
+    src="imgs/iot/atmega.webp" 
+    height="34" 
+    alt="Atmega" 
+    align=right
+  />&nbsp;
+  <img 
+    src="imgs/iot/esp.webp" 
+    height="34" 
+    alt="ESP" 
+    align=right
+  />&nbsp;
 </h2>
 
 
