@@ -62,7 +62,7 @@
   <a href="https://twitter.com/srijan76448" alt="Srijan Bhattacharyya | Twitter">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/srijan-bhattacharyya-58b85b272/" alt="Srijan Bhattacharyya | LinkedIn">
+  <a href="https://www.linkedin.com/in/srijan76448/" alt="Srijan Bhattacharyya | LinkedIn">
     <img height="34" src="imgs/social-media/linkedin.webp" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/srijan.76448/" alt="Srijan Bhattacharyya | Instagram">
