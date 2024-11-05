@@ -9,10 +9,8 @@
   />
 </p>
 
-
 ![status](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=srijan-76448.srijan-76448)
-
 
 <h2 align = "center">GitHub Stats</h2>
 <div align = "center">
@@ -77,13 +75,9 @@
   </a>
 </p>
 </h2>
-
-
 <br>
 
-
 <h1>Tech Stack</h1>
-
 <h2>Platform:&nbsp;&nbsp;
   <img 
     src="imgs/platform/windows.webp" 
@@ -101,7 +95,6 @@
     alt="GNU" align=right
   />&nbsp;
 </h2>
-
 
 <h2>Languages:&nbsp;&nbsp;
   <img 
@@ -136,7 +129,6 @@
   />&nbsp;
 </h2>
 
-
 <h2>IoT:&nbsp;&nbsp;
   <img 
     src="imgs/iot/rpi.webp" 
@@ -164,9 +156,7 @@
   />&nbsp;
 </h2>
 
-
 <h2>Opereting Systems:&nbsp;&nbsp;
-
   <img 
     src="imgs/os/arch-linux.webp" 
     height="34" 
@@ -267,14 +257,9 @@
     align=right
   />&nbsp;
 </h2>
-
-
-
 <br>
 
-
 <h1>Currently In Use</h1>
-
 <h2>OS:&nbsp;&nbsp;
   <img 
     src="imgs/os/arch-linux.webp" 
@@ -290,7 +275,6 @@
   />&nbsp;
 </h2>
 
-
 <h2>DE/WM:&nbsp;&nbsp;
   <img 
     src="imgs/gui/i3wm.webp" 
@@ -299,14 +283,9 @@
     align=right
   />&nbsp;
 </h2>
-
-
-
 <br>
 
-
 <h1>Member Of</h1>
-
 <h2>Group:&nbsp;&nbsp;
   <p align="right">
     <a href="http://iictmsl.com/" align=right>
