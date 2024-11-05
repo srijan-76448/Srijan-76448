@@ -60,13 +60,14 @@
 
 <h2> Social Media
 <p align="center">
+  <-- Twitter -->
   <a href="https://twitter.com/srijan76448" alt="Srijan Bhattacharyya | Twitter">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/srijan76448/" alt="Srijan Bhattacharyya | LinkedIn">
     <img height="34" src="imgs/social-media/linkedin.webp" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/srijan.76448/" alt="Srijan Bhattacharyya | Instagram">
+  <a href="https://www.instagram.com/srijan76448/" alt="Srijan Bhattacharyya | Instagram">
     <img height="34" src="imgs/social-media/instagram.webp" alt="Instagram">
   </a>
   <a href="mailto:srijan.76448@gmail.com" alt="Srijan Bhattacharyya | Gmail">
