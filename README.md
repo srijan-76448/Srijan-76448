@@ -60,7 +60,6 @@
 
 <h2> Social Media
 <p align="center">
-  <-- Twitter -->
   <a href="https://twitter.com/srijan76448" alt="Srijan Bhattacharyya | Twitter">
     <img height="34" src="imgs/social-media/twitter.webp" alt="Twitter">
   </a>
