@@ -156,7 +156,7 @@
   />&nbsp;
 </h2>
 
-<h2>Opereting Systems:&nbsp;&nbsp;
+<h2>Opereting Systems:
   <img 
     src="imgs/os/arch-linux.webp" 
     height="34" 
