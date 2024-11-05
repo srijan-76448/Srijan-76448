@@ -181,6 +181,7 @@
     alt="Linux_Mint"
     align=right
   />
+  <br>
   <img 
     src="imgs/os/kde-neon.webp" 
     height="34" 
@@ -205,6 +206,7 @@
     alt="Raspberry_Pi_OS"
     align=right
   />
+  <br>
   <img 
     src="imgs/os/void-linux.webp" 
     height="34" 
