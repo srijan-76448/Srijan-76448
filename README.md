@@ -83,7 +83,7 @@
     align = "left"
   />
   <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&hide_border=true" 
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=windows-dark&hide_border=true" 
     alt = "Streak Stats"
     aspect-ratio = "auto 494/194"
     width = "50%"
