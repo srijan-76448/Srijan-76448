@@ -10,8 +10,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)
-[![Status](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)](https://archlinux.org/)
+[![](https://visitcount.itsvg.in/api?id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)<br>[![Status](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)](https://archlinux.org/)
 
 # 💫 About Me:
 🔭 I’m currently working on ISHA, OpenBCI<br>🤝 I’m looking for help with OpenBCI, ISHA<br>🌱 I’m currently learning BCI, AI, ML, LLM, IoT, Linux Kernel
