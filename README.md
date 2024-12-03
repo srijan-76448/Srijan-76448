@@ -79,7 +79,7 @@
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
     aspect-ratio = "auto 1/1"
-    width = "24%"
+    width = "23%"
     align = "left"
   />
   <img
@@ -93,7 +93,7 @@
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
     aspect-ratio = "auto 1/1"
-    width = "24%"
+    width = "23%"
     align = "right"
   />
   <p></p>
@@ -129,7 +129,6 @@
     src = "https://github-contributor-stats.vercel.app/api?username=srijan-76448&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"
     alt = "Language Stats"
     width = "50%"
-    max-width = "50%"
   />
 </div>
 
