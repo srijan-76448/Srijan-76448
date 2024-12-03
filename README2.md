@@ -82,7 +82,7 @@
     align = "left"
   />
   <img
-    src = "https://github-readme-stats.vercel.app/api?username=srijan-76448&theme=radical&hide_border=true&include_all_commits=false&count_private=true" 
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&hide_border=true" 
     alt = "Streak Stats"
     aspect-ratio = "auto 494/194"
     width = "50%"
@@ -95,25 +95,21 @@
     width = "24%"
     align = "right"
   />
-
   <p></p>
-
   <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&hide_border=true" 
+    src = "https://github-readme-stats.vercel.app/api?username=srijan-76448&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" 
     alt = "GitHub Stats"
     aspect-ratio = "auto 5/2"
-    width = "50%"
-    align = "center"
+    width = "48%"
+    align = "top"
   />
-
   <p></p>
-
   <img
     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-76448&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt = "Language Stats"
     aspect-ratio = "auto 50/17"
-    width = "30%"
-    align = "center" 
+    width = "46%"
+    align = "top" 
   />
 </div>
 
