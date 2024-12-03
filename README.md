@@ -2,15 +2,16 @@
   <img 
     src = "imgs/github-header/v2.webp"
     alt = "Hey! I am Srijan Bhattacharyya."
-    width: 500% 
-    height: 100% 
+    aspect-ratio = "auto 5/1"
+    width = "90%"
     align = "center"
   />
 </p>
 
 ---
 
-[![](https://img.shields.io/badge/BTW-I%20use%20Arch-blue)](https://archlinux.org/)<br>[![](https://visitcount.itsvg.in/api?id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?style=plastic&id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/I%20use%20Arch%20btw-black?style=plastic&logo=arch-linux&logoColor=blue)](https://archlinux.org/)
 
 # 💫 About Me:
 🔭 I’m currently working on ISHA, OpenBCI<br>🤝 I’m looking for help with OpenBCI, ISHA<br>🌱 I’m currently learning BCI, AI, ML, LLM, IoT, Linux Kernel
@@ -73,16 +74,16 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
 
 ## 📊 GitHub Stats:
-<div align = "center">
+<div align = "center" width = "80%">
   <img
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
     aspect-ratio = "auto 1/1"
-    width = "23%"
+    width = "24%"
     align = "left"
   />
   <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=windows-dark&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true"
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&hide_border=true" 
     alt = "Streak Stats"
     aspect-ratio = "auto 494/194"
     width = "50%"
@@ -92,7 +93,7 @@
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
     aspect-ratio = "auto 1/1"
-    width = "23%"
+    width = "24%"
     align = "right"
   />
   <p></p>
@@ -127,7 +128,8 @@
   <img 
     src = "https://github-contributor-stats.vercel.app/api?username=srijan-76448&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"
     alt = "Language Stats"
-    width = "55%"
+    width = "50%"
+    max-width = "50%"
   />
 </div>
 
