@@ -78,11 +78,11 @@
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
     aspect-ratio = "auto 1/1"
-    width = "24%"
+    width = "23%"
     align = "left"
   />
   <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&hide_border=true" 
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=windows-dark&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true"
     alt = "Streak Stats"
     aspect-ratio = "auto 494/194"
     width = "50%"
@@ -92,7 +92,7 @@
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
     aspect-ratio = "auto 1/1"
-    width = "24%"
+    width = "23%"
     align = "right"
   />
   <p></p>
@@ -127,7 +127,7 @@
   <img 
     src = "https://github-contributor-stats.vercel.app/api?username=srijan-76448&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"
     alt = "Language Stats"
-    width = "75%"
+    width = "55%"
   />
 </div>
 
