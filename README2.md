@@ -112,7 +112,7 @@
     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-76448&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt = "Language Stats"
     aspect-ratio = "auto 50/17"
-    width = "50%"
+    width = "30%"
     align = "center" 
   />
 </div>
