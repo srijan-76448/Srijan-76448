@@ -86,6 +86,8 @@
   />
 </div>
 
+---
+
 # 💻 Tech Stack:
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
