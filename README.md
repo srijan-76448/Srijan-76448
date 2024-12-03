@@ -27,6 +27,15 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/srijan76448)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/917059343651)
 
+## 🏆 GitHub Trophies
+<div align = "center">
+  <img 
+    src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+    alt = "Language Stats"
+    width = "75%"
+  />
+</div>
+
 ## 📊 GitHub Stats:
 <div align = "center" width = "80%">
   <img
@@ -65,15 +74,6 @@
     aspect-ratio = "auto 50/17"
     width = "46%"
     align = "top" 
-  />
-</div>
-
-## 🏆 GitHub Trophies
-<div align = "center">
-  <img 
-    src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
-    alt = "Language Stats"
-    width = "75%"
   />
 </div>
 
