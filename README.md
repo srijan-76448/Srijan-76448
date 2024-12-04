@@ -42,7 +42,7 @@
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
     aspect-ratio = "auto 1/1"
-    width = "21%"
+    width = "18%"
     align = "left"
   />
   <img
@@ -56,7 +56,7 @@
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
     aspect-ratio = "auto 1/1"
-    width = "21%"
+    width = "18%"
     align = "right"
   />
   <p></p>
