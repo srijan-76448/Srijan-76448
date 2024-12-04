@@ -42,19 +42,19 @@
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
     aspect-ratio = "auto 1/1"
-    width = "18%"
+    width = "20%"
   />
   <img
     src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=windows-dark&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true" 
     alt = "Streak Stats"
     aspect-ratio = "auto 247/97"
-    width = "45%"
+    width = "46%"
   />
   <img
     src = "imgs/wings/Right.webp" 
     alt = "Right Wing"
     aspect-ratio = "auto 1/1"
-    width = "18%"
+    width = "20%"
   />
   <p></p>
   <img
