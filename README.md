@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/I%20use%20Arch%20btw-black?style=plastic&logo=arch-linux&logoColor=blue)](https://archlinux.org/)
 
 # 💫 About Me:
-🔭 I’m currently working on ISHA, OpenBCI<br>🤝 I’m looking for help with OpenBCI, ISHA<br>🌱 I’m currently learning BCI, AI, ML, LLM, IoT, Linux Kernel
+🔭 I’m currently working on ISHA, OpenBCI<br>🤝 I’m looking for help with OpenBCI, ISHA<br>🌱 I’m currently learning BCI, AI, ML, LLM, IoT, Linux Kernel and a lot more!
 
 
 ## 🌐 Socials:
