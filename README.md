@@ -10,7 +10,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?style=plastic&id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=srijan-76448&icon=0&color=1)](https://visitcount.itsvg.in)
 [![](https://img.shields.io/badge/I%20use%20Arch%20btw-black?style=plastic&logo=arch-linux&logoColor=blue)](https://archlinux.org/)
 
 # 💫 About Me:
