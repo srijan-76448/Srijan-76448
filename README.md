@@ -37,7 +37,7 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div align = "center" width = "80%">
+<div align = "center">
   <img
     src = "imgs/wings/Left.webp" 
     alt = "Left Wing"
@@ -62,7 +62,6 @@
     alt = "GitHub Stats"
     aspect-ratio = "auto 5/2"
     width = "43%"
-    align = "top"
   />
   <p></p>
   <img
@@ -70,7 +69,6 @@
     alt = "Language Stats"
     aspect-ratio = "auto 50/17"
     width = "41%"
-    align = "top" 
   />
 </div>
 
