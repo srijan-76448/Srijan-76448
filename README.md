@@ -34,7 +34,6 @@
     src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
     alt = "Language Stats"
     width = "75%"
-    onclick = "return false"
   />
 </div>
 
@@ -51,7 +50,6 @@
     alt = "Streak Stats"
     aspect-ratio = "auto 247/97"
     width = "50%"
-    onclick = "return false"
   />
   <img
     src = "imgs/wings/Right.webp" 
@@ -65,7 +63,6 @@
     alt = "GitHub Stats"
     aspect-ratio = "auto 5/2"
     width = "48%"
-    onclick = "return false"
   />
   <br>
   <img
@@ -73,7 +70,6 @@
     alt = "Language Stats"
     aspect-ratio = "auto 50/17"
     width = "46%"
-    onclick = "return false"
   />
 </div>
 
@@ -83,7 +79,6 @@
     src = "https://github-contributor-stats.vercel.app/api?username=srijan-76448&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"
     alt = "Language Stats"
     width = "50%"
-    onclick = "return false"
   />
 </div>
 
@@ -137,7 +132,7 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
 
 <!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-# 💰 You can help me by Donating
+<!-- # 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srijan.76448) -->
