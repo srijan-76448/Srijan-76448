@@ -106,6 +106,7 @@
 ## Editors
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
+![Audacity](https://img.shields.io/badge/audacity-%23000000.svg?style=plastic&logo=audacity&logoColor=red)
 
 ## AI/ML Libraries
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
