@@ -34,6 +34,7 @@
     src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
     alt = "Language Stats"
     width = "75%"
+    onclick = "return false"
   />
 </div>
 
@@ -50,6 +51,7 @@
     alt = "Streak Stats"
     aspect-ratio = "auto 247/97"
     width = "50%"
+    onclick = "return false"
   />
   <img
     src = "imgs/wings/Right.webp" 
@@ -63,6 +65,7 @@
     alt = "GitHub Stats"
     aspect-ratio = "auto 5/2"
     width = "48%"
+    onclick = "return false"
   />
   <br>
   <img
@@ -70,6 +73,7 @@
     alt = "Language Stats"
     aspect-ratio = "auto 50/17"
     width = "46%"
+    onclick = "return false"
   />
 </div>
 
@@ -79,6 +83,7 @@
     src = "https://github-contributor-stats.vercel.app/api?username=srijan-76448&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"
     alt = "Language Stats"
     width = "50%"
+    onclick = "return false"
   />
 </div>
 
