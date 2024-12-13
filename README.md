@@ -46,7 +46,7 @@
     width = "21%"
   />
   <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=radical&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true" 
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=srijan-76448&theme=windows-dark&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true" 
     alt = "Streak Stats"
     aspect-ratio = "auto 247/97"
     width = "50%"
