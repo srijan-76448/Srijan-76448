@@ -131,8 +131,14 @@
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
 
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&margin-w=4)
+### ✍️ Random Dev Quote
+<div align = "center">
+  <img 
+    src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&margin-w=4"
+    alt = "Developers Quote"
+    height = "50%"
+  />
+</div>
 
 <!-- # 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srijan.76448) -->
