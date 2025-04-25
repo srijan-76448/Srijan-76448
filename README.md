@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./styles.css" />
+
 <p align = "center">
   <img 
     src = "imgs/github-header/v2.webp"
