@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img 
-    src = "imgs/github-header/v2.webp"
+    src = "imgs/github-header/v3.webp"
     alt = "Hey! I am Srijan Bhattacharyya."
     aspect-ratio = "auto 5/1"
     width = "90%"
