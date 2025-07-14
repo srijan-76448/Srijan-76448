@@ -30,14 +30,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/srijan.76448)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/@srijan_76448)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <div align = "center">
   <img 
     src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
     alt = "Language Stats"
     width = "75%"
   />
-</div>
+</div> -->
 
 ## 📊 GitHub Stats:
 <div align = "center">
