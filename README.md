@@ -2,7 +2,7 @@
 
 <p align = "center">
   <img 
-    src = "imgs/github-header/v3.webp"
+    src = "imgs/github-header/v4.webp"
     alt = "Header image"
     aspect-ratio = "auto 5/1"
     width = "90%"
