@@ -18,7 +18,6 @@
 # 💫 About Me:
 🔭 I’m currently working on ISHA, DevOS EcoSystem.<br>🤝 I’m looking for help with Custom Smart Phone OS Dev.
 
-
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:srijan.76448@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://facebook.com/srijan.76448)
