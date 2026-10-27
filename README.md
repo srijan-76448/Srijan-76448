@@ -17,6 +17,7 @@
 
 # 💫 About Me:
 
+- I'm an **Embedded Systems & Robotics Engineer**
 - 🔭 I’m currently working on ISHA.
 - 🤝 I’m looking for help with making **Autonomous Systems for Trading and Risk Analysis [[ASTRA](https://github.com/srijan-76448/ASTRA)]**.
 
