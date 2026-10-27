@@ -88,6 +88,7 @@
   />
 </div>
 
+<!--
 ### 🔝 Top Contributed Repo
 
 <div align = "center">
@@ -97,6 +98,7 @@
     width = "44%"
   />
 </div>
+-->
 
 ---
 
